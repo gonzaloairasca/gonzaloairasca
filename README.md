@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola! Soy Gonzalo, desarrollador Full Stack👋
+
+Soy desarrollador full stack y llevo +2 años construyendo aplicaciones con React js. Trabajo de manera freelance diseñando y desarrollando webs para empresas y emprendimientos utilizando tecnologías como JavaScript, React JS, Next JS, Node JS, Express, Sanity y Taildwind CSS.
+
+
 
 <!--
 **gonzaloairasca/gonzaloairasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

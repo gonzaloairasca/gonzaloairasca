@@ -16,7 +16,7 @@
 
 Ultimos trabajos:
 
-Claudia Luque Inmobiliaria (https://claudialuqueinmobiliaria.com.ar): Sitio web para inmobiliaria con landing + buscador de propiedades.
+Claudia Luque Inmobiliaria (https://inmobiliariaclaudialuque.com.ar): Sitio web para inmobiliaria con landing + buscador de propiedades.
 Para esta web utilicé Next Js + Taildwind CSS para el frontend y Sanity para el backend.
 
 Aguas La Hilda (https://aguaslahilda.com.ar): Sitio web para embotelladora de agua en Córdoba Capital. Para construir este sitio utilicé React Js + Taildwind CSS.

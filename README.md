@@ -15,15 +15,15 @@
 🎈-Taildwind CSS
 
 Ultimos trabajos:
+Crater Estudio Fotográfico plataforma de cursos (https://crater-website.vercel.app/): Aún en desarrollo consta de un una landing page + tienda de cursos + vista detalle de cada curso + carrito de compras. Desarrollado enteramente con Next JS + Typescript + Taildwind CSS.
 
 Claudia Luque Inmobiliaria (https://inmobiliariaclaudialuque.com.ar): Sitio web para inmobiliaria con landing + buscador de propiedades.
-Para esta web utilicé Next Js + Taildwind CSS para el frontend y Sanity para el backend.
+Para esta web utilicé Next Js + Taildwind CSS para el frontend y Sanity para la gestión del contenido.
 
 Aguas La Hilda (https://aguaslahilda.com.ar): Sitio web para embotelladora de agua en Córdoba Capital. Para construir este sitio utilicé React Js + Taildwind CSS.
 
 Glaciar Refrigeración (https://glaciarsantafe.com): One page para empresa de refrigeración industrial en Santa Fe Capital. Para construirla utilicé React Js + Taildwind CSS.
 
-Visitá mi web! --> https://gonzaloairascaweb.com.ar
 
 <!--
 **gonzaloairasca/gonzaloairasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

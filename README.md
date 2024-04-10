@@ -4,14 +4,10 @@
 
 🪄 Mi stack de tecnologías es: 
 
-🎈-HTML5
-🎈-CSS3
-🎈-JavaScript
 🎈-TypeScript
-🎈-React JS
 🎈-Next JS
 🎈-Node JS
-🎈-Express
+🎈-Sanity
 🎈-Taildwind CSS
 
 Ultimos trabajos:

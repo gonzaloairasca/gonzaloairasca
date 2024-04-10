@@ -11,7 +11,10 @@
 🎈-Taildwind CSS
 
 Ultimos trabajos:
+
 Crater Estudio Fotográfico plataforma de cursos (https://crater-website.vercel.app/): Aún en desarrollo consta de un una landing page + tienda de cursos + vista detalle de cada curso + carrito de compras. Desarrollado enteramente con Next JS + Typescript + Taildwind CSS.
+
+Crestodina Propiedades (https://www.crestodinapropiedades.com.ar/) Sitio web inmobiliario. Landing page + vista propiedades en venta + vista propiedades en alquiler + vista detalle de las propiedades + gestor de propiedades. Desarrollado con Next js + Typescript + Taildwind css + Sanity IO.
 
 Claudia Luque Inmobiliaria (https://inmobiliariaclaudialuque.com.ar): Sitio web para inmobiliaria con landing + buscador de propiedades.
 Para esta web utilicé Next Js + Taildwind CSS para el frontend y Sanity para la gestión del contenido.
